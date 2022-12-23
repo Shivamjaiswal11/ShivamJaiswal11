@@ -39,6 +39,6 @@ Languages and Tools:
     </a>
      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexpo.dev%2F&psig=AOvVaw3BT9wGQCf60FuvbH3NROG2&ust=1671890318117000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIC2lf3yj_wCFQAAAAAdAAAAABAE" alt="expo" width="40" height="40" />
-    </a>
+<!--    <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+        <img src="" alt="expo" width="40" height="40" />
+    </a> -->
