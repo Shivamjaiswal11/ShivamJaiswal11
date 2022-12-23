@@ -14,7 +14,7 @@ I have a high intrest in becoming a full-stack dev.
 ![Visitor Count](https://profile-counter.glitch.me/ShivamJaiswal11/count.svg)
 
 
-<img  align="right"  src="https://octodex.github.com/images/surftocat.png"  width="200">
+
 Languages and Tools: 
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -43,3 +43,4 @@ Languages and Tools:
 <!--    <a href="https://expo.dev/" target="_blank" rel="noreferrer">
         <img src="" alt="expo" width="40" height="40" />
     </a> -->
+<img  align="right"  src="https://octodex.github.com/images/surftocat.png"  width="200">
