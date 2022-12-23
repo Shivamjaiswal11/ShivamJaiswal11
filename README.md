@@ -1,7 +1,7 @@
 ### Hi Devs 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivam Jaiswal-yellow?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamjaiswal/)](https://www.linkedin.com/in/ishivamjaiswal/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamjaiswal/)](https://www.linkedin.com/in/ishivamjaiswal/)
 
 
 
