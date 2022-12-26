@@ -17,7 +17,7 @@
 i.e.Android Developer,React Native dev. 
 I've worked over several projects based over react native and is always eager to learn and find the new ways of code implementation. 
 I have a high intrest in becoming a full-stack dev.
-
+<br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/ShivamJaiswal11/count.svg)
 
