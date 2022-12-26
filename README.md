@@ -4,8 +4,7 @@
 
 
 
-I'm
-Front-End Mobile App Developer
+<h3 align="center">A Passionate App developer from India</h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
