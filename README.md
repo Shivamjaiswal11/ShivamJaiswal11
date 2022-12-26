@@ -1,6 +1,6 @@
 ### Hi Devs 👋
 
-<a href="https://www.linkedin.com/in/ishivamjaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamjaiswal1191996" height="30" width="40" />Shivam Jaiswal</a>
+<a href="https://www.linkedin.com/in/ishivamjaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamjaiswal1191996" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
