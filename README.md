@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A Passionate App developer from India</h3>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,10 +13,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 i.e.Android Developer,React Native dev. 
 I've worked over several projects based over react native and is always eager to learn and find the new ways of code implementation. 
 I have a high intrest in becoming a full-stack dev.
-
+<h3 align="center">A Passionate App developer from India</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/ShivamJaiswal11/count.svg)
 
