@@ -1,9 +1,6 @@
 ### Hi Devs 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamjaiswal/](https://www.linkedin.com/in/ishivamjaiswal/))
-
-
-<a href="https://www.linkedin.com/in/ishivamjaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravbhadauria1995" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishivamjaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamjaiswal1191996" height="30" width="40" />Shivam Jaiswal</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
